@@ -18,5 +18,19 @@
     <ClCompile Include="Castellon_Eduardo_PruebaPila.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pila.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PaliChecker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pila.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PaliChecker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|solutionrelative:Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|solutionrelative:Castellon_Eduardo_PruebaPila\\Pila.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|solutionrelative:Castellon_Eduardo_PruebaPila\\Pila.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|solutionrelative:Castellon_Eduardo_PruebaPila\\PaliChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C5B7934-79CB-439B-A877-6647DA9AA866}|Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.vcxproj|solutionrelative:Castellon_Eduardo_PruebaPila\\PaliChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaliChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.cpp",
+              "RelativeDocumentMoniker": "Castellon_Eduardo_PruebaPila\\PaliChecker.cpp",
+              "ToolTip": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.cpp",
+              "RelativeToolTip": "Castellon_Eduardo_PruebaPila\\PaliChecker.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T16:57:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaliChecker.h",
+              "DocumentMoniker": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.h",
+              "RelativeDocumentMoniker": "Castellon_Eduardo_PruebaPila\\PaliChecker.h",
+              "ToolTip": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\PaliChecker.h",
+              "RelativeToolTip": "Castellon_Eduardo_PruebaPila\\PaliChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T16:55:24.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cpp",
+              "DocumentMoniker": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.cpp",
+              "RelativeDocumentMoniker": "Castellon_Eduardo_PruebaPila\\Pila.cpp",
+              "ToolTip": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.cpp",
+              "RelativeToolTip": "Castellon_Eduardo_PruebaPila\\Pila.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T16:33:30.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.h",
+              "DocumentMoniker": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.h",
+              "RelativeDocumentMoniker": "Castellon_Eduardo_PruebaPila\\Pila.h",
+              "ToolTip": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Pila.h",
+              "RelativeToolTip": "Castellon_Eduardo_PruebaPila\\Pila.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T16:33:26.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +96,7 @@
               "RelativeDocumentMoniker": "Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.cpp",
               "ToolTip": "C:\\Users\\caste\\OneDrive\\Escritorio\\CODE\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.cpp",
               "RelativeToolTip": "Castellon_Eduardo_PruebaPila\\Castellon_Eduardo_PruebaPila.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T16:11:34.011Z",
               "EditorCaption": ""
